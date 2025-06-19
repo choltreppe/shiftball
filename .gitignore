@@ -1,0 +1,8 @@
+desktop
+!desktop/resources
+src/resources/*
+*.zip
+*.apk*
+*.aab*
+android.*
+icon/*

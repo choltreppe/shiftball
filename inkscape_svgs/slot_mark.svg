@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="75"
+   height="75"
+   viewBox="0 0 19.84375 19.84375"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="slot_mark.svg"
+   inkscape:export-filename="slot_mark.png"
+   inkscape:export-xdpi="655.35999"
+   inkscape:export-ydpi="655.35999"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#7e7e7e"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="3.6828508"
+     inkscape:cx="13.440675"
+     inkscape:cy="43.173077"
+     inkscape:window-width="1920"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#00000000">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1.3229168"
+       spacingy="1.3229167"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path85"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.775041;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:7.8"
+       d="m 9.922722,13.659905 a 0.86302396,0.63854369 0 0 0 0.746336,-0.318374 L 15.122684,7.634152 A 0.86302396,0.63854369 0 0 0 14.376347,6.675593 H 12.148952 V 5.830117 c 0,-0.822458 -0.662093,-1.484551 -1.484524,-1.484551 H 9.1798774 c -0.8224308,0 -1.4845506,0.662093 -1.4845506,1.484551 V 6.675593 H 5.4673764 A 0.86302396,0.63854369 0 0 0 4.7210397,7.634152 l 4.4530698,5.707379 a 0.86302396,0.63854369 0 0 0 0.7486125,0.318374 z" />
+  </g>
+</svg>

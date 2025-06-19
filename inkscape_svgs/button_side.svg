@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10"
+   height="40"
+   viewBox="0 0 2.6458333 10.583333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="button_side.svg"
+   inkscape:export-filename="../../game_raylib/dist/resources/button_side.png"
+   inkscape:export-xdpi="240"
+   inkscape:export-ydpi="240"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#252525"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="2.5601446"
+     inkscape:cx="19.139544"
+     inkscape:cy="117.57148"
+     inkscape:window-width="1920"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect28"
+       style="fill:#5d7789;stroke-width:0.812554;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:7.8"
+       d="M 2.5466145,0.89296873 C 1.1357163,0.89296873 0,2.0286851 0,3.4395833 v 4.5971353 c 0,1.4108983 1.1357163,2.5466144 2.5466145,2.5466144 h 0.099219 V 0.89296873 Z"
+       sodipodi:nodetypes="ssssccs" />
+    <path
+       id="rect20"
+       style="fill:#ffffff;stroke-width:0.812554;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:7.8"
+       d="M 2.6458333,0 C 1.1800416,0 0,1.1800416 0,2.6458333 v 3.9687499 c 0,1.4657917 1.1800416,2.6458333 2.6458333,2.6458333 z"
+       sodipodi:nodetypes="csscc" />
+  </g>
+</svg>
