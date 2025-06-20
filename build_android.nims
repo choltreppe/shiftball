@@ -50,7 +50,7 @@ const
   AppVersionCode = 1
   AppVersionName = "1.0"
   ProjectLibraryName = "main"
-  ProjectResourcesPath = "src/resources"
+  ProjectResourcesPath = "resources"
   ProjectSourceFile = "src/main.nim"
 
 # Android app configuration variables
@@ -79,6 +79,7 @@ task setupAndroid, "Prepare raylib project for Android development":
   # Copy project required resources: strings.xml, icon.png, assets
   writeFile(ProjectBuildPath / "res/values/strings.xml",
       &"<?xml version='1.0' encoding='utf-8'?>\n<resources><string name='app_name'>{AppLabelName}</string></resources>\n")
+  mkDir("icon")
   cpFile(AppIconLdpi, ProjectBuildPath / "res/drawable-ldpi/icon.png")
   cpFile(AppIconMdpi, ProjectBuildPath / "res/drawable-mdpi/icon.png")
   cpFile(AppIconHdpi, ProjectBuildPath / "res/drawable-hdpi/icon.png")
