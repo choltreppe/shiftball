@@ -868,7 +868,7 @@ when defined(buildFirstBoard):
   result.board[4][1] = newTile(straight, east)
   result.board[5][1] = newTile(goal, north)
   result.stats = analyze(result.board.getSolutions(checkEmptyRows = true))
-  saveFileData("resources/first_board", result)
+  saveFileData("../resources/first_board", result)
 
 proc initGame* =
   if not xp.load(): xp <- 0

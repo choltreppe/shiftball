@@ -3,7 +3,7 @@ import std/[strformat, parseutils, os]
 proc convertSvgs(relPath = "") =
   for (kind, path) in walkDir("inkscape_svgs"/relPath):
     let relPath = relPath/lastPathPart(path)
-    let outPath = "src/resources"/relPath
+    let outPath = "resources"/relPath
     case kind
     of pcDir:
       exec &"mkdir -p {outPath}"

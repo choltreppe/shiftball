@@ -1,7 +1,7 @@
 desktop/*
 !desktop/resources
-src/resources/*
-!src/resources/font.ttf
+resources/*
+!resources/font.ttf
 *.zip
 *.apk*
 *.aab*
