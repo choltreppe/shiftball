@@ -9,6 +9,12 @@ You can **install it from playstore**: https://play.google.com/store/apps/detail
 or
 ## build from source
 
+**setup**:
+```bash
+nimble convertSvgs
+nimble buildFirstBoard
+```
+
 ### build desktop test version
 ```bash
 nimble build
@@ -19,8 +25,6 @@ nimble build
 - make sure `ANDROID_HOME` `ANDROID_NDK` enviorment variables are set
 ```bash
 nimble exportIcon
-nimble convertSvgs
-nimble buildFirstBoard
 nimble setupAndroid
 nimble buildAndroid
 ```
