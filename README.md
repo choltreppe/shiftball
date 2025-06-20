@@ -20,6 +20,7 @@ nimble build
 ```bash
 nimble exportIcon
 nimble convertSvgs
+nimble buildFirstBoard
 nimble setupAndroid
 nimble buildAndroid
 ```
